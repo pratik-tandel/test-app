@@ -1,0 +1,19 @@
+{
+    "users": [
+        {   "id" : 1,
+            "first_name": "Oloysius",
+            "last_name": "Walsham",
+            "gender": "Male"
+        },
+        {    "id" : 2,
+            "first_name": "Aloysius",
+            "last_name": "Alsha",
+            "gender": "Male" 
+        },
+        {    "id" : 3,
+            "first_name": "Eloysius",
+            "last_name": "Asham",
+            "gender": "Female"
+        }
+    ]
+}
